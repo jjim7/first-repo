@@ -8,7 +8,8 @@ for i in range(1,21):
     elif i / 15 == 0:
         print("yeardream")
 
-    else print(i)
+    else:
+        print(i)
 
 
 
